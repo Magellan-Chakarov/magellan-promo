@@ -272,7 +272,7 @@ a:hover, a:focus {
 }*/
 
 .description-wrapper .description-prop-price-per-person icon {
-	unset: all;
+	all: unset;
 	
 }
 
