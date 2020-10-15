@@ -556,3 +556,6 @@ a:hover, a:focus {
         height: 80%;
     }
 }
+.fa {
+font-family: FontAwesome;	
+}
