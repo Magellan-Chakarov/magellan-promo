@@ -79,7 +79,7 @@
     overflow: hidden;
     background-position: top center;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100% !important;
     transform: scale(1);
     transition: all .2s ease-in-out;
 }
