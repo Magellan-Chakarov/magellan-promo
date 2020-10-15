@@ -555,7 +555,7 @@ a:hover, a:focus {
         height: 80%;
     }
 }
-.fa-facebook, .fa-instagram, .fa-google-plus {
+.footer .fa-facebook {
 	font-family: FontAwesome;
 }
 
