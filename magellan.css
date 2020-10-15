@@ -271,7 +271,7 @@ a:hover, a:focus {
     background-size: cover;
 }*/
 
-.description-wrapper .description-prop-price-per-person icon {
+.description-wrapper .description-prop-price-per-person .icon {
 	all: unset;
 	
 }
