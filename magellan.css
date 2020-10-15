@@ -275,7 +275,6 @@ a:hover, a:focus {
 
 .description-wrapper .description-prop-price-per-person .icon {
 	all: unset;
-	
 }
 
 .description-wrapper .description-prop-price {
@@ -555,7 +554,4 @@ a:hover, a:focus {
         overflow-y: auto;
         height: 80%;
     }
-}
-.fa {
-font-family: FontAwesome;	
 }
