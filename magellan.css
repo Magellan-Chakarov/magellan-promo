@@ -4,6 +4,8 @@
     -webkit-box-shadow: 0 3px 12px rgba(0,0,0,.1);
     box-shadow: 0 3px 12px rgba(0,0,0,.1);
     font-family: Roboto Condensed,Helvetica,Arial,sans-serif;
+	height: 350px;
+	overflow: hidden;
 }
 
 .block_promo_prices {
