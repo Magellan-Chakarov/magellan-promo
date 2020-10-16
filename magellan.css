@@ -560,3 +560,7 @@ a:hover, a:focus {
 .social-icon {
 	font-family: FontAwesome;
 }
+
+.row {
+	width: 1004px;
+}
